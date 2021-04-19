@@ -3,7 +3,7 @@
 Welcome to the main repository of the GlovePIE decompilation effort! 
 GlovePIE is a programmable input emulator written by Carl Kenner. However, the original website has stopped
 functioning and the program no longer receives updates. You can download my preservation of the original binaries
-at my repository here: [https://github.com/ravbug/GlovePIE](Ravbug/GlovePIE)
+at my repository here: [Ravbug/GlovePIE](https://github.com/ravbug/GlovePIE)
 
 It is my goal to generate source code that is as close to the original as possible, so that GlovePIE does not eventually
 stop working due to Windows updates. 
