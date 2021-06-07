@@ -18,4 +18,4 @@ stop working due to Windows updates.
 
 ## How to contribute
 All contributions are welcome. To get started, download the free Community edition of 
-Embarcadero RAD Studio (the current way to use Delphi), clone this repository, and take a crack at it!
+Embarcadero RAD Studio (the current way to use Delphi) and [IDR](https://github.com/Ravbug/GlovePIEReverseEngineering/releases/tag/IDR) (The Pascal-Delphi decompiler), clone this repository, and take a crack at it!
