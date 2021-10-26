@@ -5,7 +5,43 @@
 program PIEFree;
 
 uses
-  SysUtils, Classes;
+  SysUtils,
+  Classes,
+  PieAny in 'PieAny.pas',
+  PieBDRemote in 'PieBDRemote.pas',
+  PieBluetooth in 'PieBluetooth.pas',
+  PieCursors in 'PieCursors.pas',
+  PieExpression in 'PieExpression.pas',
+  PieFalcon in 'PieFalcon.pas',
+  PieFastrak in 'PieFastrak.pas',
+  PieFunction in 'PieFunction.pas',
+  PieHatTrack in 'PieHatTrack.pas',
+  PieIntersense in 'PieIntersense.pas',
+  PieJoystick in 'PieJoystick.pas',
+  PieKinectSDK2 in 'PieKinectSDK2.pas',
+  PieLightstone in 'PieLightstone.pas',
+  PieMidi in 'PieMidi.pas',
+  PieModule in 'PieModule.pas',
+  PieMouse in 'PieMouse.pas',
+  PieNDS in 'PieNDS.pas',
+  PieNeurosky in 'PieNeurosky.pas',
+  PieOSC in 'PieOSC.pas',
+  PieP5 in 'PieP5.pas',
+  PiePie in 'PiePie.pas',
+  PiePinch in 'PiePinch.pas',
+  PiePPJoy in 'PiePPJoy.pas',
+  PiePPT in 'PiePPT.pas',
+  PieRemote in 'PieRemote.pas',
+  PieRower in 'PieRower.pas',
+  PieSixense in 'PieSixense.pas',
+  PieSR in 'PieSR.pas',
+  PieStatement in 'PieStatement.pas',
+  PieVariables in 'PieVariables.pas',
+  PieWiimote in 'PieWiimote.pas',
+  PieXInput in 'PieXInput.pas',
+  PieZ800 in 'PieZ800.pas',
+  Themes in 'Themes.pas',
+  uTextDrawer in 'uTextDrawer.pas';
 
 {$R *.res}
 
