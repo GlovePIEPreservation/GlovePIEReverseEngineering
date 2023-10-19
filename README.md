@@ -2,8 +2,8 @@
 
 Welcome to the main repository of the GlovePIE decompilation effort! 
 GlovePIE is a programmable input emulator written by Carl Kenner. However, the original website has stopped
-functioning and the program no longer receives updates. You can download my preservation of the original binaries
-at my repository here: [Ravbug/GlovePIE](https://github.com/ravbug/GlovePIE)
+functioning and the program no longer receives updates. You can download a preservation of the original binaries
+at my repository here: [GlovePIEPreservation/GlovePIE](https://github.com/GlovePIEPreservation/GlovePIE)
 
 It is my goal to generate source code that is as close to the original as possible, so that GlovePIE does not eventually
 stop working due to Windows updates. 
@@ -25,7 +25,7 @@ stop working due to Windows updates.
 
 ## How to contribute
 All contributions are welcome. To get started, download the free Community edition of 
-Embarcadero RAD Studio (the current way to use Delphi) and [IDR](https://github.com/Ravbug/GlovePIEReverseEngineering/releases/tag/IDR) (The Pascal-Delphi decompiler), clone this repository, and take a crack at it!
+Embarcadero RAD Studio (the current way to use Delphi) and [IDR](https://github.com/GlovePIEPreservation/GlovePIEReverseEngineering/releases/tag/IDR) (The Pascal-Delphi decompiler), clone this repository, and take a crack at it!
 <details>
    <summary>Direct links to the Delphi downloads on Embarcadero's website, in case the signup form is broken</summary>
    
